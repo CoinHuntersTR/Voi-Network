@@ -116,7 +116,7 @@ goal node status -w 1000
 ### Telemetry Yapılandırması
 
 
-# CoinHunters yazan kısmı düzenleyiniz ve tırnakları "" kaldırın
+> CoinHunters yazan kısmı düzenleyiniz ve tırnakları "" kaldırın
 ```
 sudo ALGORAND_DATA=/var/lib/algorand diagcfg telemetry name -n "CoinHunters" - CoinHuntersCommunity
 ```
